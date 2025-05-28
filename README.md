@@ -1,4 +1,4 @@
-# Project Capstone Modul 1 - Aplikasi Yellow Pages
+# **Aplikasi Yellow Pages dengan Python**
 
 Aplikasi buku telepon atau yellow pages yang berfungsi mendata semua nama, nomor telepon, dan data alamat lengkap penduduk 
 
